@@ -26,4 +26,4 @@ Your exercise is to add at least nine more physics object (with sprites as child
  Run the scene and watch the objects bounce off each other and the walls.
  When you have finished, save the project, commit and push your changes to GitHub, and turn in the URL of your repository on Canvas.
  
- 
+ Created four falling characters and six standing characters to play with.
